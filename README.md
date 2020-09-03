@@ -20,6 +20,5 @@ Hi, my name is Sami Kalammallah, a technical support who currently learn about F
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samx23)](https://github.com/anuraghazra/github-readme-stats)
 
-Let's see what have I build down here.
-
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+# Let's see what I've build down here.
+# 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
