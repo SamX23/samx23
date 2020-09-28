@@ -1,11 +1,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samx23)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Bismillah 👋
+## Bismillah
 
-Hi, my name is Sami Kalammallah, a technical support who currently learn about Front-end(Web Developer), specially in React JavaScript.
+Yo! call me Sami, currently a Front-end(Web Developer) as hobbies(yet), specially in React JavaScript.
 
-## Currently learning
+## What I am good at
 
 **Languages:**
 
