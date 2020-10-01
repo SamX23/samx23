@@ -2,7 +2,7 @@
 
 ## Bismillah
 
-Yo! call me Sami, currently a Front-end(Web Developer) as hobbies(yet), specially in React JavaScript.
+Hi, call me Sami, currently a Front-end as hobbies(yet), specializing in React.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
