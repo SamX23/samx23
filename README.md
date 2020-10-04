@@ -1,7 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, call me Sami, currently a Front-end as hobbies(yet), specializing in React.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Frameworks/Libraries:**
