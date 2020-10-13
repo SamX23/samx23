@@ -1,7 +1,7 @@
 # > Bismillah
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" width="100%"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact)
 
 **Frameworks/Libraries:**
 
