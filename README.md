@@ -10,6 +10,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=group-chat-app&theme=react" />
   </a>
   
+  <a href="https://github.com/SamX23/my-blog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=my-blog&theme=tokyonight " />
+  </a>
+  
   <a href="https://github.com/SamX23/messenger-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=messenger-clone&theme=react" />
   </a>
