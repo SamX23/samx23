@@ -1,4 +1,7 @@
 <code><img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" height="150" /></code>
+
+<code><img align="center" alt="Sami Stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23"  height="150" /></code>
+
 <code><img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" height="150" /></code>
 
 ---
