@@ -16,6 +16,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=my-blog&theme=tokyonight " />
   </a>
   
+  <a href="https://github.com/SamX23/moviedb-web-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=moviedb-web-app&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/read-random-ayah">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=read-random-ayah&theme=tokyonight" />
+  </a>
+  
+  
   <a href="https://github.com/SamX23/messenger-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=messenger-clone&theme=react" />
   </a>
@@ -34,10 +43,6 @@
   
   <a href="https://github.com/SamX23/react-basic">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
-  </a>
-  
-  <a href="https://github.com/SamX23/moviedb-web-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=moviedb-web-app&theme=react" />
   </a>
 
 </details>
