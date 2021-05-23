@@ -1,7 +1,9 @@
-<code><img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" height="150" /></code>
-<code><img align="center" alt="Sami Stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23"  height="150" /></code>
+<code>
+<img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" width="30%"/>
+<img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" width="30%"/>
+<img align="center" alt="Sami Stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23" width="30%"/>
 
-<code><img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" height="150" /></code>
+</code>
 
 ---
 
@@ -61,5 +63,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+
 ![](https://komarev.com/ghpvc/?username=SamX23&color=blue&label=Curious+Hooman&style=flat-square)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/SamX23/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/SamX23/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/SamX23/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
