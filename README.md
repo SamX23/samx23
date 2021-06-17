@@ -37,6 +37,10 @@
   <a href="https://github.com/SamX23/amazon-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=amazon-clone&theme=react" />
   </a>
+
+  <a href="https://github.com/SamX23/sam-neflix-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=sam-neflix-clone&theme=react" />
+  </a>
   
   <a href="https://github.com/SamX23/react-basic">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
