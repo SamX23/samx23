@@ -2,10 +2,13 @@
 <img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" width="30%"/>
 <img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" width="30%"/>
 <img align="center" alt="Sami Stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23" width="30%"/>
-
 </code>
 
----
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samikalammallah/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
+<br>
+<br>
 
 <details>
   <summary>Personal Project (ongoing)</summary>
@@ -52,7 +55,7 @@
 
 </details>
 
----
+## Skills
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-4CBB17?style=flat-square&logo=JavaScript&logoColor=white" />
