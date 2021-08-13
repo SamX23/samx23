@@ -1,7 +1,7 @@
 <code>
-<img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" width="30%"/>
-<img align="center" alt="Sami Stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" width="30%"/>
-<img align="center" alt="Sami Stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23" width="30%"/>
+<img align="center" alt="Sami stat's" src="https://github-readme-stats.vercel.app/api?username=samx23&show_icons=true&theme=react" width="30%"/>
+<img align="center" alt="Sami stat's" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samx23&layout=compact" width="30%"/>
+<img align="center" alt="Sami stat's" src="https://github-readme-streak-stats.herokuapp.com/?user=samx23" width="30%"/>
 </code>
 
 ## Connect with me
