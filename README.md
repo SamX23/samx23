@@ -7,10 +7,13 @@
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samikalammallah/)
 <br>
-<br>
 
 <details>
   <summary>Personal Project (ongoing)</summary>
+  
+  <a href="https://github.com/SamX23/binar-challenge-7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=binar-challenge-7&theme=react" />
+  </a>
   
   <a href="https://github.com/SamX23/group-chat-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=group-chat-app&theme=react" />
