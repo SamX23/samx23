@@ -31,10 +31,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=read-random-ayah&theme=tokyonight" />
   </a>
   
-  <a href="https://github.com/SamX23/binar-chapter-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=binar-chapter-4&theme=tokyonight" />
-  </a>
-  
   <a href="https://github.com/SamX23/search-engine">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=search-engine&theme=react" />
   </a>
