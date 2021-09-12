@@ -23,6 +23,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=my-blog&theme=tokyonight " />
   </a>
   
+  <a href="https://github.com/SamX23/fullstack-react-express">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=fullstack-react-express&theme=react" />
+  </a>
+  
   <a href="https://github.com/SamX23/moviedb-web-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=moviedb-web-app&theme=react" />
   </a>
