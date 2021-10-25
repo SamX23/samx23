@@ -1,4 +1,9 @@
-<h3 align="center">Welcome to Sami's Playground</h3>
+<h3 align="center">
+  
+  <!-- Github Readme typing text - https://readme-typing-svg.herokuapp.com/ -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300B0F7&size=25&center=true&width=600&lines=Welcome+to+my+playground;My+creative+typing+stored+as+code+here)](https://git.io/typing-svg)
+
+</h3>
 
 You're currently on Sami Kalammallah github profile pages, he is a passionate self taught programmer which able to do fullstack using javascript. However, he really loves to do a Front-end using modern stack such as MERN and other React stack. He is a React Javascript guy and do not want to touch PHP, always write code using ES6 or so, and doing clean code, Eslint and Prettier are his best friend.
 
