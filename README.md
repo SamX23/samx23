@@ -7,7 +7,7 @@
 
 You're currently on Sami Kalammallah github profile pages, he is a passionate self taught programmer which able to do fullstack using javascript. However, he really loves to do a Front-end using modern stack such as MERN and other React stack. He is a React Javascript guy and do not want to touch PHP, always write code using ES6 or so, and doing clean code, Eslint and Prettier are his best friend.
 
-### My Freakin Streak 🔥🔥
+### My Freakin Streak 🔥🔥🔥
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
