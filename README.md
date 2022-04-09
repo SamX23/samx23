@@ -20,8 +20,8 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
 <details align="center">
   <summary>Personal Project (ongoing)</summary>
   
-  <a href="https://github.com/SamX23//voucher-games">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=/voucher-games&theme=react" />
+  <a href="https://github.com/SamX23/voucher-games">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=voucher-games&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/SamX23/binar-challenge-7">
@@ -37,7 +37,7 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
   </a>
   
   <a href="https://github.com/SamX23/landing-page-sepatu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=landing-page-sepatug&theme=tokyonight " />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=landing-page-sepatu&theme=tokyonight " />
   </a>
   
   <a href="https://github.com/SamX23/moviedb-web-app">
@@ -63,7 +63,9 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
   <a href="https://github.com/SamX23/react-basic">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
   </a>
-
+</details>
+ 
+<details align="center">
   <summary>Clone Project</summary>
   <a href="https://github.com/SamX23/tesla-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=tesla-clone&theme=react" />
@@ -85,6 +87,9 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=sam-neflix-clone&theme=react" />
   </a>
   
+</details>
+ 
+<details align="center">
   <summary>Template Project</summary>
   <a href="https://github.com/SamX23/fullstack-react-express">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=fullstack-react-express&theme=react" />
@@ -101,7 +106,6 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
   <a href="https://github.com/SamX23/nodejs-monolith-dashboard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=nodejs-monolith-dashboard&theme=react" />
   </a>
-  
 </details>
 
 <p align="center">
