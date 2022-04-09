@@ -20,6 +20,10 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
 <details align="center">
   <summary>Personal Project (ongoing)</summary>
   
+  <a href="https://github.com/SamX23//voucher-games">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=/voucher-games&theme=react" />
+  </a>
+  
   <a href="https://github.com/SamX23/binar-challenge-7">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=binar-challenge-7&theme=react" />
   </a>
@@ -32,8 +36,8 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=my-blog&theme=tokyonight " />
   </a>
   
-  <a href="https://github.com/SamX23/fullstack-react-express">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=fullstack-react-express&theme=react" />
+  <a href="https://github.com/SamX23/landing-page-sepatu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=landing-page-sepatug&theme=tokyonight " />
   </a>
   
   <a href="https://github.com/SamX23/moviedb-web-app">
@@ -44,26 +48,60 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=read-random-ayah&theme=tokyonight" />
   </a>
   
+  <a href="https://github.com/SamX23/lp-builder-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=lp-builder-frontend&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/pokedex-dicoding">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=pokedex-dicoding&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/url-shortener">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=url-shortener&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/react-basic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
+  </a>
+
+  <summary>Clone Project</summary>
+  <a href="https://github.com/SamX23/tesla-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=tesla-clone&theme=react" />
+  </a>
+
   <a href="https://github.com/SamX23/search-engine">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=search-engine&theme=react" />
   </a>
-  
+
   <a href="https://github.com/SamX23/amazon-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=amazon-clone&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/sosmed-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=sosmed-clone&theme=react" />
   </a>
 
   <a href="https://github.com/SamX23/sam-neflix-clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=sam-neflix-clone&theme=react" />
   </a>
   
-  <a href="https://github.com/SamX23/react-basic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
+  <summary>Template Project</summary>
+  <a href="https://github.com/SamX23/fullstack-react-express">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=fullstack-react-express&theme=react" />
   </a>
   
-  <a href="https://github.com/SamX23/lp-builder-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=lp-builder-frontend&theme=react" />
+  <a href="https://github.com/SamX23/react-wordpress">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-wordpress&theme=react" />
   </a>
-
+  
+  <a href="https://github.com/SamX23/template-webpack-bootstrap-sass">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=template-webpack-bootstrap-sass&theme=react" />
+  </a>
+  
+  <a href="https://github.com/SamX23/nodejs-monolith-dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=nodejs-monolith-dashboard&theme=react" />
+  </a>
+  
 </details>
 
 <p align="center">
