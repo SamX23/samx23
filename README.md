@@ -60,8 +60,8 @@ Sami Kalammallah, a passionate self-taught programmer, able to fullstack using j
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=url-shortener&theme=react" />
   </a>
   
-  <a href="https://github.com/SamX23/react-basic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=react-basic&theme=react" />
+  <a href="https://github.com/SamX23/notes-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=notes-app&theme=react" />
   </a>
 </details>
  
