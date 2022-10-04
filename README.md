@@ -7,7 +7,7 @@
 
 </h3>
 
-Sami Kalammallah, a passionate self-taught programmer, able to fullstack using javascript. Loving Front-end using modern stack such as MERN and other React stack. He is a Javascript guy and do not want to touch PHP, always write code using ES6 or so, clean code, Eslint and Prettier are his best friend.
+He is a passionate self-taught programmer, currently focus as a software engineer on Mazecare and do the Front-end side using modern stack.
 
 ### My Freakin Streak 🔥🔥🔥
 
