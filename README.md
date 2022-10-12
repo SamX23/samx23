@@ -133,6 +133,8 @@
 
 ### Connect with me
 
+<a href="https://codetrace.com/users/SamX23"><img src="https://codetrace.com/widget/SamX23" width="220" height="50" /></a>
+
 <a href="https://www.linkedin.com/in/samikalammallah/">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
