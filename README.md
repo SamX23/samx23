@@ -5,9 +5,9 @@
   <!-- Github Readme typing text - https://readme-typing-svg.herokuapp.com/ -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300B0F7&size=25&center=true&width=600&lines=Welcome+to+my+playground;My+creative+typing+stored+as+code+here)](https://git.io/typing-svg)
 
+  He is a passionate self-taught programmer, currently, focusing as a software engineer on Mazecare and doing the Front-end side using a modern stack.
 </h3>
 
-He is a passionate self-taught programmer, currently focus as a software engineer on Mazecare and do the Front-end side using modern stack.
 
 ### My Freakin Streak 🔥🔥🔥
 
