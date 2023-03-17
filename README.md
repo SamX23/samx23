@@ -105,15 +105,11 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <picture>
-    <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  </picture>
+  <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <picture>
-    <img align="center" src="/github-metrics.svg" alt="Metrics"/>
-  </picture>
+  <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 </p>
 
 <a href="https://www.linkedin.com/in/samikalammallah/">
