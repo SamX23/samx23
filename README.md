@@ -4,27 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300B0F7&size=25&center=true&width=600&lines=Welcome+to+my+playground;My+creative+typing+stored+as+code+here)](https://git.io/typing-svg)
 
-He is a passionate self-taught programmer, currently, focusing as a software engineer on Mazecare and doing the Front-end side using a modern stack.
-
 </h3>
 
-<h3 align="center">My Freakin Streak 🔥🔥🔥</h3>
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
 <p align="center">
-  <picture>
-    <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  </picture>
+  He is a passionate self-taught programmer, currently, focusing as a software engineer on Mazecare and doing the Front-end side using a modern stack.
 </p>
 
-<p align="center">
-  <picture>
-    <img align="center" src="/github-metrics.svg" alt="Metrics"/>
-  </picture>
-</p>
 
 <details align="center">
-  <summary>Personal Project (ongoing)</summary>
+  <summary>
+    Personal Project (ongoing)
+  </summary>
   
   <a href="https://github.com/SamX23/voucher-games">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samx23&repo=voucher-games&theme=tokyonight" />
@@ -113,16 +103,21 @@ He is a passionate self-taught programmer, currently, focusing as a software eng
   </a>
 </details>
 
-<h4 align="center">Connect with me</h4>
-
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/samikalammallah/">
-    <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br/>
-  <br/>
+  <picture>
+    <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <img align="center" src="/github-metrics.svg" alt="Metrics"/>
+  </picture>
+</p>
+
+<a href="https://www.linkedin.com/in/samikalammallah/">
+  <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
 ![ASD](https://komarev.com/ghpvc/?username=SamX23&color=blue&style=flat-square)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
