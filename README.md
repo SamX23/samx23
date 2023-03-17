@@ -5,7 +5,8 @@
   <!-- Github Readme typing text - https://readme-typing-svg.herokuapp.com/ -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300B0F7&size=25&center=true&width=600&lines=Welcome+to+my+playground;My+creative+typing+stored+as+code+here)](https://git.io/typing-svg)
 
-  He is a passionate self-taught programmer, currently, focusing as a software engineer on Mazecare and doing the Front-end side using a modern stack.
+He is a passionate self-taught programmer, currently, focusing as a software engineer on Mazecare and doing the Front-end side using a modern stack.
+
 </h3>
 
 <h3 align="center">My Freakin Streak 🔥🔥🔥</h3>
@@ -108,7 +109,6 @@
   </a>
 </details>
 
-
 <p align="center">
 <a align="center" href="https://codetrace.com/users/SamX23"><img src="https://codetrace.com/widget/SamX23" width="400" height="100%" /></a>
 </p>
@@ -147,3 +147,5 @@
 
 ![ASD](https://komarev.com/ghpvc/?username=SamX23&color=blue&style=flat-square)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+![Github Details](./github-metrics.svg)
