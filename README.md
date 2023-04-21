@@ -7,6 +7,8 @@
 </h3>
 
 <p align="center">
+Bismillah
+
 I am a Front-End Web Developer who is constantly learning and growing in my field. Through a combination of self-teaching, completing courses, and collaborating with other developers, I have honed my skills and gained experience in JavaScript environments, particularly with React. I am passionate about software engineering and excited about the opportunity to contribute to any development team.
 </p>
 
