@@ -114,8 +114,4 @@ I am a Front-End Web Developer who is constantly learning and growing in my fiel
   <img align="center" src="/github-metrics.svg" alt="Metrics"/>
 </p>
 
-<a href="https://www.linkedin.com/in/samikalammallah/">
-  <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  
 ![ASD](https://komarev.com/ghpvc/?username=SamX23&color=blue&style=flat-square)
