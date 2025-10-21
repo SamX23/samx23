@@ -1,4 +1,4 @@
-[![@samx23's Holopin board](https://holopin.io/api/user/board?user=samx23)](https://holopin.io/@samx23)
+[![An image of @samx23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samx23)](https://holopin.io/@samx23)
 
 <h3 align="center">
 
